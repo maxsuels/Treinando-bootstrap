@@ -1,0 +1,43 @@
+.navbar {
+    background-color: aquamarine;
+}
+
+.caixa {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: bisque;
+}
+
+#caixa-title {
+    padding-bottom: 15px;
+}
+
+.sobre {
+    padding-top: 15px;
+    width: 400px;
+    margin: auto;
+    font-family: Roboto, arial;
+}
+
+.parceiros {
+    background-color: blanchedalmond;
+
+}
+
+.container {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.row {
+    padding-bottom: 10px;
+}
+
+.produtos {
+    background-color: blanchedalmond;
+}
+
+.rodape {
+    background-color: aquamarine;
+    height: 50px;
+}
